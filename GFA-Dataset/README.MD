@@ -1,3 +1,5 @@
 # Glass-forming ability dataset
 Glass-forming ability (GFA) describes whether an alloy can form an amorphous bulk (i.e., a BMG) via rapid cooling (e.g., by copper-mold casting, injection molding, or suction casting), an amorphous ribbon (i.e. a ribbon metallic glass, or RMG), or a crystalline alloy (CRA). If there have been conflicting reports about the GFA of individual alloys, the highest GFA was selected for our dataset. For example, Al25Gd55Ni20 was reported in the Landolt-Bornstein handbook to form an RMG, but Fang et al. found that this alloy can form a bulk sample with a diameter of 3 mm, so it was denoted a BMG in our dataset. This GFA dataset consisted of 6,471 unique alloy compositions in total, comprising 1,211 BMGs, 1,552 CRAs, and 3,708 RMGs.
 
+# Please cite this dataset as:
+Xiong, Jie, San-Qiang Shi, and Tong-Yi Zhang. "A machine-learning approach to predicting and understanding the properties of amorphous metallic alloys." Materials & Design 187 (2020): 108378.
