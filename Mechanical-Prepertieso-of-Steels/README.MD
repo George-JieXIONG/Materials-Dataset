@@ -1,2 +1,0 @@
-# Please cite this dataset as:
-XIONG, Jie, Zhang Tong-Yi, and San-Qiang SHI. "Machine Learning of Mechanical Properties of Steels." SCIENCE CHINA Technological Sciences (2020).
