@@ -4,9 +4,9 @@ You can use the [editor on GitHub](https://github.com/George-JieXIONG/Materials-
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### The Materials Dataset
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+The datasets containing 
 
 ```markdown
 Syntax highlighted code block
