@@ -8,7 +8,7 @@ The datasets are related to metallic materials including steels, metallic glasse
 
 ### The Steels Dataset
 
-All data are colleted from [NIMS database](https://mits.nims.go.jp/en/), and details see [steel dataset](https://github.com/George-JieXIONG/Materials-Dataset/blob/main/Chapter4/NIMS-Fatigue.csv) 
+All data are colleted from [NIMS database](https://mits.nims.go.jp/en/), and cleaned data are available on [steel dataset](https://github.com/George-JieXIONG/Materials-Dataset/blob/main/Chapter4/NIMS-Fatigue.csv) 
 
 ```markdown
 
