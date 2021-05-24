@@ -34,6 +34,7 @@ dB (discontinuous array-inclusions) 0-0.05
 dC (isolated inclusions) 0-0.04
 
 ```
+On these 16 features, machine models were built to predict the meachnical properties of steels. The ![developed models](https://github.com/George-JieXIONG/Image/blob/main/NIMS-All-Best.jpg) showed good predictive power.
 
 For more detailes see the Article [Machine learning of mechanical properties of steels](https://link.springer.com/content/pdf/10.1007/s11431-020-1599-5.pdf)
 
