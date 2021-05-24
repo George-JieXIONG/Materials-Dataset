@@ -1,12 +1,14 @@
-## Welcome to GitHub Pages
+## Welcome to Materials Dataset 
 
-You can use the [editor on GitHub](https://github.com/George-JieXIONG/Materials-Dataset/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+This webpage is developed by [Jekyll](https://jekyllrb.com/), and maintain by [Dr. XIONG Jie](https://www.researchgate.net/profile/Jie-Xiong-8).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The dataset are related to metallic materials including steels, metallic glasses, and high entropy alloys
 
-### The Materials Dataset
 
-The datasets containing 
+
+### The Steels Dataset
+
+The [datasets](https://github.com/George-JieXIONG/Materials-Dataset/blob/main/Chapter4/NIMS-Fatigue.csv) contains fatigue strength, tensile strength, fracture strength, and hardness of steels. All data are colleted from [NIMS database](https://mits.nims.go.jp/en/)
 
 ```markdown
 Syntax highlighted code block
