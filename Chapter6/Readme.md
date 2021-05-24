@@ -1,12 +1,7 @@
-# These datasets are for Chapter 6 of my Ph.D. thesis(博士论文第六章相关数据库)
-GFA: Glass-forming ability (玻璃形成能力)
+# These datasets are for Chapter 6 of my Ph.D. thesis
 
-Dmax: Critical casting diameter (临界成型尺寸)
+Formed Phases，Hardness，Tensile Property of as-cast complex concentrated alloys
 
-CTTs: Critical transformation temperature (临界转变温度)
-
-EM: Shear modulus and Bulk modulus (剪切模量及体模量)
-
-Please cite this dataset as: Xiong, Jie, San-Qiang Shi, and Tong-Yi Zhang. "A machine-learning approach to predicting and understanding the properties of amorphous metallic alloys." Materials & Design 187 (2020): 108378.
+Please cite this dataset as: J. Xiong, S. Q. Shi, T. Y. Zhang, Machine Learning of Phases and Mechanical Properties in Complex Concentrated Alloys. Journal of Materials Science & Technology. 87 (2021) 133-142.
 
 
