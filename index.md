@@ -8,15 +8,15 @@ The datasets are related to metallic materials including steels, metallic glasse
 
 ### The Steels Dataset
 
-This dataset contains 360 data samples comprised 16 variables of nine alloying elements, one reduction ratio, three heat-treatment temperatures, three inclusions and four target properties (fatigue strength, tensile strength, fracture strength, and hardness) of steels. 
+All data are colleted from [NIMS database](https://mits.nims.go.jp/en/), and details see [steel dataset](https://github.com/George-JieXIONG/Materials-Dataset/blob/main/Chapter4/NIMS-Fatigue.csv) 
 
 ```markdown
-All data are colleted from [NIMS database](https://mits.nims.go.jp/en/)
 
-Details see [steel dataset](https://github.com/George-JieXIONG/Materials-Dataset/blob/main/Chapter4/NIMS-Fatigue.csv) 
+This dataset contains 360 data samples comprised 16 variables of nine alloying elements, one reduction ratio, three heat-treatment temperatures, three inclusions and four target properties (fatigue strength, tensile strength, fracture strength, and hardness) of steels. 
+
 ```
 
-For more 
+For more detailes see the Article [Machine learning of mechanical properties of steels](https://link.springer.com/content/pdf/10.1007/s11431-020-1599-5.pdf)
 
 ### Jekyll Themes
 
