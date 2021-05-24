@@ -1,6 +1,6 @@
 ## Welcome to Materials Dataset 
 
-This webpage is developed by [Jekyll](https://jekyllrb.com/), and maintain by [Dr. XIONG Jie](https://www.researchgate.net/profile/Jie-Xiong-8).
+This webpage is developed based on [Jekyll](https://jekyllrb.com/), and maintain by [Dr. XIONG Jie](https://www.researchgate.net/profile/Jie-Xiong-8).
 
 The datasets are related to metallic materials including steels, metallic glasses, and high entropy alloys
 
