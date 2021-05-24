@@ -8,7 +8,7 @@ The datasets are related to metallic materials including steels, metallic glasse
 
 ### The Steels Dataset
 
-The [datasets](https://github.com/George-JieXIONG/Materials-Dataset/blob/main/Chapter4/NIMS-Fatigue.csv) contains fatigue strength, tensile strength, fracture strength, and hardness of steels. All data are colleted from [NIMS database](https://mits.nims.go.jp/en/)
+The [steel dataset](https://github.com/George-JieXIONG/Materials-Dataset/blob/main/Chapter4/NIMS-Fatigue.csv) contains fatigue strength, tensile strength, fracture strength, and hardness of steels. All data are colleted from [NIMS database](https://mits.nims.go.jp/en/)
 
 ```markdown
 Syntax highlighted code block
