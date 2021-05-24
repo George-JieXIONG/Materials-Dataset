@@ -35,7 +35,7 @@ dC (isolated inclusions) 0-0.04
 
 ```
 On these 16 features, machine models were built to predict the meachnical properties of steels. The developed models showed good predictive power.
-![](https://github.com/George-JieXIONG/Materials-Dataset/blob/gh-pages/img/NIMS-All-Best.gif)
+![](https://github.com/George-JieXIONG/Materials-Dataset/blob/gh-pages/img/NIMS-All-Best.png)
 
 For more detailes see the Article [Machine learning of mechanical properties of steels](https://link.springer.com/content/pdf/10.1007/s11431-020-1599-5.pdf)
 
