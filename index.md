@@ -6,7 +6,6 @@ The datasets are related to metallic materials including steels, metallic glasse
 
 
 
-
 ### The Steels Dataset
 
 The original data were colleted from [NIMS database](https://mits.nims.go.jp/en/), and cleaned data are available on [steel dataset](https://github.com/George-JieXIONG/Materials-Dataset/blob/main/Chapter4/NIMS-Fatigue.csv).
@@ -14,32 +13,7 @@ The original data were colleted from [NIMS database](https://mits.nims.go.jp/en/
 This dataset contains 360 data samples comprised 16 features of three heat-treatment temperatures, nine alloying elements, one reduction ratio, three inclusions 
 and four target properties of fatigue strength, tensile strength, fracture strength, and hardness.
 
-```markdown
-
-Features are described as following
-NT (Normalizing Temperature °C) 825-900
-QT (Quenching Temperature °C) 825-865
-TT (Tempering Temperature °C) 550-680
-C (wt% of Carbon) 0.28-0.57
-Si (wt% of Silicon) 0.16-0.35
-Mn (wt% of Manganese) 0.37-1.3
-P (wt% of Phosphorus) 0.007-0.031
-S (wt% of Sulphur) 0.003-0.03
-Ni (wt% of Nickel) 0.01-2.78
-Cr (wt% of Chromium) 0.01-1.12
-Cu (wt% of Copper) 0.01-0.22
-Mo (wt% of Molybdenum) 0-0.24
-RR (Reduction ratio) 420-5530
-dA (Plastic work-inclusions) 0-0.13
-dB (discontinuous array-inclusions) 0-0.05
-dC (isolated inclusions) 0-0.04
-
-```
-On these 16 features, machine models were built to predict the meachnical properties of steels. The developed models showed good predictive power.
-![](https://github.com/George-JieXIONG/Materials-Dataset/blob/gh-pages/img/NIMS-All-Best.png)
-
 For more detailes see the Article [Machine learning of mechanical properties of steels](https://link.springer.com/content/pdf/10.1007/s11431-020-1599-5.pdf)
-
 
 
 
@@ -48,31 +22,18 @@ For more detailes see the Article [Machine learning of mechanical properties of 
 The original data were colleted from several related studies and the LB handbook on amorphous ternary alloys. These data covered variables such as glass forming ability (GFA), critical casting diameter(Dmax), critical transition temperatures (CTT) and elastic properties (EM), and cleaned data are available on [metallic glasses dataset](https://github.com/George-JieXIONG/Materials-Dataset/blob/main/Chapter5).
 
 The training sets represented a wide range of elements, including metals and metalloids, with the GFA and Dmax datasets containing 54 elements, the CTT datasets containing 42 elements, and the EM datasets containing 48 elements.
-```markdown
 
-Features are described as following
-NT (Normalizing Temperature °C) 825-900
-QT (Quenching Temperature °C) 825-865
-TT (Tempering Temperature °C) 550-680
-C (wt% of Carbon) 0.28-0.57
-Si (wt% of Silicon) 0.16-0.35
-Mn (wt% of Manganese) 0.37-1.3
-P (wt% of Phosphorus) 0.007-0.031
-S (wt% of Sulphur) 0.003-0.03
-Ni (wt% of Nickel) 0.01-2.78
-Cr (wt% of Chromium) 0.01-1.12
-Cu (wt% of Copper) 0.01-0.22
-Mo (wt% of Molybdenum) 0-0.24
-RR (Reduction ratio) 420-5530
-dA (Plastic work-inclusions) 0-0.13
-dB (discontinuous array-inclusions) 0-0.05
-dC (isolated inclusions) 0-0.04
+For more detailes see the Article [A machine-learning approach to predicting and understanding the properties of amorphous metallic alloys](https://www.sciencedirect.com/science/article/pii/S0264127519308160)
 
-```
-On these 16 features, machine models were built to predict the meachnical properties of steels. The developed models showed good predictive power.
-![](https://github.com/George-JieXIONG/Materials-Dataset/blob/gh-pages/img/NIMS-All-Best.png)
 
-For more detailes see the Article [Machine learning of mechanical properties of steels](https://link.springer.com/content/pdf/10.1007/s11431-020-1599-5.pdf)
+
+### The Metallic Glasses Dataset
+
+The present phase dataset includes 61 amorphous (AM) samples, 136 single-phase solid-solution (SP-SS) samples, 31 single-phase intermetallics (SP-IM) samples, 94 multiple-phase solid-solution (MP-SS) samples, and 235 multiple-phase intermetallics (MP-IM) samples. The classification was conducted on all 557 data, called ML-A dataset, to classify AM, SP, and MP. The number of crystalline-set, termed ML-B dataset, is 496, on which classfier will classify SS and IM. The 230 SS CCAs form ML-C dataset, with which classfier classify HCP sub-cluster, BCC sub-cluster including SP and MP BCC CCAs, FCC sub-cluster including SP and MP FCC CCAs, and mixture (MSS) sub-cluster including the mixture of BCC, FCC, and HCP. Some of the 750 CCAs have reported hardness values, and a few of them have reported UTS values. If the reported values of hardness (or UTS) of a CCA are different, the average value of hardness (or UTS) is adopted for that CCA. The hardness dataset and the UTS dataset in the present study consist of 290 and 71 CCAs, respectively. All the, and cleaned data are available on [complex concentrated alloys dataset](https://github.com/George-JieXIONG/Materials-Dataset/blob/main/Chapter6).
+
+
+For more detailes see the Article [Machine learning of phases and mechanical properties in complex concentrated alloys](https://www.sciencedirect.com/science/article/pii/S1005030221002073)
+
 
 ### Support or Contact
 
