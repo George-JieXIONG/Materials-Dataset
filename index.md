@@ -12,9 +12,23 @@ All data are colleted from [NIMS database](https://mits.nims.go.jp/en/), and cle
 
 ```markdown
 
-This dataset contains 360 data samples comprised 16 variables of 
-nine alloying elements, one reduction ratio, three heat-treatment temperatures, three inclusions 
-and four target properties of fatigue strength, tensile strength, fracture strength, and hardness. 
+Features are described as following
+NT (Normalizing Temperature °C) 825-900
+QT (Quenching Temperature °C) 825-865
+TT (Tempering Temperature °C) 550-680
+C (wt% of Carbon) 0.28-0.57
+Si (wt% of Silicon) 0.16-0.35
+Mn (wt% of Manganese) 0.37-1.3
+P (wt% of Phosphorus) 0.007-0.031
+S (wt% of Sulphur) 0.003-0.03
+Ni (wt% of Nickel) 0.01-2.78
+Cr (wt% of Chromium) 0.01-1.12
+Cu (wt% of Copper) 0.01-0.22
+Mo (wt% of Molybdenum) 0-0.24
+RR (Reduction ratio) 420-5530
+dA (Plastic work-inclusions) 0-0.13
+dB (discontinuous array-inclusions) 0-0.05
+dC (isolated inclusions) 0-0.04
 
 ```
 
