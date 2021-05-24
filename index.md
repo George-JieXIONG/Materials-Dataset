@@ -6,6 +6,7 @@ The datasets are related to metallic materials including steels, metallic glasse
 
 
 
+
 ### The Steels Dataset
 
 The original data were colleted from [NIMS database](https://mits.nims.go.jp/en/), and cleaned data are available on [steel dataset](https://github.com/George-JieXIONG/Materials-Dataset/blob/main/Chapter4/NIMS-Fatigue.csv).
@@ -38,6 +39,9 @@ On these 16 features, machine models were built to predict the meachnical proper
 ![](https://github.com/George-JieXIONG/Materials-Dataset/blob/gh-pages/img/NIMS-All-Best.png)
 
 For more detailes see the Article [Machine learning of mechanical properties of steels](https://link.springer.com/content/pdf/10.1007/s11431-020-1599-5.pdf)
+
+
+
 
 ### The Metallic Glasses Dataset
 
