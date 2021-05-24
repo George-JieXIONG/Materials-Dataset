@@ -12,7 +12,9 @@ All data are colleted from [NIMS database](https://mits.nims.go.jp/en/), and det
 
 ```markdown
 
-This dataset contains 360 data samples comprised 16 variables of nine alloying elements, one reduction ratio, three heat-treatment temperatures, three inclusions and four target properties (fatigue strength, tensile strength, fracture strength, and hardness) of steels. 
+This dataset contains 360 data samples comprised 16 variables of nine alloying elements, 
+one reduction ratio, three heat-treatment temperatures, three inclusions 
+and four target properties (fatigue strength, tensile strength, fracture strength, and hardness) of steels. 
 
 ```
 
